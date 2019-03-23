@@ -1,0 +1,3 @@
+rootProject.name = 'tgb_1594'
+
+include ':app'
